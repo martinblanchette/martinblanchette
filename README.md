@@ -24,6 +24,6 @@ Welcome to my GitHub! I'm a **Software Engineer** with a passion for **arts, mus
 
 ## 📫 Get in Touch
 - 💼 [LinkedIn](https://www.linkedin.com/in/martinblanchette/)
-- 📧 [Email](mailto:contact@martinblanchette.ca?subject=Build something amazing together! 🚀)
+- 📧 [Email](mailto:contact@martinblanchette.ca?subject=Build%20something%20amazing%20together!%20🚀)
 
 Let's connect and build something amazing! 🚀
