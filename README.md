@@ -17,11 +17,6 @@ Welcome to my GitHub! I'm a **Software Engineer** with a passion for **arts, mus
 - 🎓 Bachelor's degree in **Software Engineering**
 - 🎓 Bachelor's degree in **Graphic Design** with solid skills in **UI/UX**
 
-## 🌱 Currently Exploring
-- 🏗️ Building a **web app for fitness training management**
-- 📖 Exploring **new opportunities in Staff/Senior engineering roles**
-- 🃏 Playing **Disney Lorcana**
-
 ## 📫 Get in Touch
 - 💼 [LinkedIn](https://www.linkedin.com/in/martinblanchette/)
 - 📧 [Email](mailto:contact%40martinblanchette.ca?subject=Build%20something%20amazing%20together!%20🚀)
